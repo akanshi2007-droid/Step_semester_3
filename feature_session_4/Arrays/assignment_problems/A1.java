@@ -1,3 +1,4 @@
+package feature_session_4.Arrays.assignment_problems;
 public class A1 {
     public static int[] productExceptSelf(int[] nums) {
         int n = nums.length;
