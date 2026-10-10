@@ -5,14 +5,14 @@ import java.util.*;
 abstract class Customer {
     double amount;
 
-    Customer(double amount) {
-        this.amount = amount;
-    }
+     Customer(double amount) {
+         this.amount = amount;
+     }
 
-    abstract double calculate();
+     abstract double calculate();
 
-    abstract String type();
-}
+     abstract String type();
+ }
 
 class Student extends Customer {
     Student(double amount) {
