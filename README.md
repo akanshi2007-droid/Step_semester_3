@@ -3,11 +3,9 @@
 A collection of Java programming assignments, practice problems, and coding exercises completed as part of the Semester 3 STEP course.
 
 ## 📌 About
-
 This repository documents my learning and problem-solving journey through Java programming. It includes coursework assignments and regular coding practice to strengthen programming fundamentals, logical thinking, and problem-solving skills.
 
 ## 📂 Repository Structure
-
 ```text
 Step_semester_3/
 │
